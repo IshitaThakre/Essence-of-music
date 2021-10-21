@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, intial-scale=1.0">
+    <meta http-equiv="X-UA-Compatilbe" content="ie=edge">
+    <title> Essence of Music </title>
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
+      integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="css/style.css" />
+
+    <!-- bootstrap -->
+
+    <script
+      src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+      integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"
+      integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"
+      integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
+      crossorigin="anonymous"
+    ></script>
+</head>
+<body>
+     <!-- title section -->
+     <section class="title" id="startpage">
+        <!-- title page -->
+   <nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <a class="navbar-brand" href="#">Milano</a>
+ 
+  <div class="collapse navbar-collapse" id="navbarText">
+    <ul class="navbar-nav ml-auto">
+      <li class="nav-item active">
+        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">Artists</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">album</a>
+      </li>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="#">Songs</a>
+    </li>
+</li>
+<li class="nav-item">
+  <a class="nav-link" href="#">Library</a>
+</li>
+</li>
+<li class="nav-item">
+  <a class="nav-link" href="#">Contact us</a>
+</li>
+
+
+
+    </ul>
+    
+  </div>
+</nav>
+<div class="banner-image align-items-center">
+    <h1 class="bannertext">Feel the Music</h1>
+  </div>
+  </section>
+  >
+      <h2>Artist</h3> <!-- Artist-->
+   <section class="Artist-section" id="Artist">
+    <div class="aet-text"
+    </div>
+    <!-- images -->
+    <div class="row">
+      <div class="col-lg-3 col-md-6 imagebox">
+        <!-- <div class="artist-name">BTS</div> -->
+        <a href="/pages/formpage.html"><div
+          class="galleryimage"
+          style="background-image: url(/images/galleryimage/ked.jpg)"
+        >
+          <div class="text">BTS</div>
+        </div></a>
+      </div>
+      <div class="col-lg-3 col-md-6 imagebox">
+        <div
+          class="Artistimage"
+          style="background-image: url(/images/galleryimage/img.jpg)"
+        >
+        <div class="text">Sanam</div>
+      </div></a>
+    </div>
+    <div class="col-lg-3 col-md-6 imagebox">
+      <div
+        class="Artistimage"
+        style="background-image: url(/images/galleryimage/img.jpg)"
+      >
+      <div class="text">Coldplay</div>
+    </div></a>
+  </div>
+  <div class="col-lg-3 col-md-6 imagebox">
+    <div
+      class="Artistimage"
+      style="background-image: url(/images/galleryimage/img.jpg)"
+    >
+    <div class="text">One Direction</div>
+  </div></a>
+</div>
+<div class="col-lg-3 col-md-6 imagebox">
+  <div
+    class="Artistimage"
+    style="background-image: url(/images/galleryimage/img.jpg)"
+  >
+  <div class="text">Blackpink</div>
+</div></a>
+</div>
+<div class="col-lg-3 col-md-6 imagebox">
+<div
+  class="Artistimage"
+  style="background-image: url(/images/galleryimage/img.jpg)"
+>
+<!-- Albums-->
+<section class="Album-section" id="Album">
+  <div class="alb-text">
+    <h2>Album</h3>
+  </div>
+  <div class="text"> BTS album</div>
+  <h3>Map of soul</h3>
+  <h3>Persona</h3>
+  <h3>BE</h3>
+  <h3>Love Yourself</h3>
+</div></a>
+</div>
+<div class="col-lg-3 col-md-6 imagebox">
+<div
+  class="galleryimage"
+  style="background-image: url(/images/galleryimage/img.jpg)"
+>
+<div class="text"> Sanam album</div>
+<h3>Rewind</h3>
+  <h3>Universally</h3>
+  <h3>In love</h3>
+  <h3>Revisited</h3>
+</div></a>
+</div>
+<div class="col-lg-3 col-md-6 imagebox">
+<div
+  class="galleryimage"
+  style="background-image: url(/images/galleryimage/img.jpg)"
+>
+<div class="text"> Coldplay album</div>
+<h3>Everyday Life</h3>
+  <h3>Parachutes</h3>
+  <h3>A rush of blood to the head</head></h3>
+  <h3>A Head Full of Dreams</h3>
+</div></a>
+</div>
+<div class="col-lg-3 col-md-6 imagebox">
+<div
+  class="galleryimage"
+  style="background-image: url(/images/galleryimage/img.jpg)"
+>
+<div class="text"> One Direction album</div>
+<h3>Midnigth Memories</h3>
+  <h3>Four</h3>
+  <h3>Up all night</h3>
+  <h3>Take Me Home</h3>
+</div></a>
+</div>
+<div class="col-lg-3 col-md-6 imagebox">
+<div
+  class="galleryimage"
+  style="background-image: url(/images/galleryimage/img.jpg)"
+>
+<div class="text"> Blackpink album</div>
+<h3>The studio</h3>
+  <h3>Kill this Love</h3>
+  <h3>In your Area</h3>
+  <h3>The Album</h3>
+</div></a>
+</div>
+<div class="col-lg-3 col-md-6 imagebox">
+<div
+  class="galleryimage"
+  style="background-image: url(/images/galleryimage/img.jpg)"
+>
+<h2>Songs</h3> <!-- Songs-->
+  <section class="Songs-section" id="Songs">
+   <div class="aet-text"
+   </div>
+   <h4>Map of Soul 7 album</h4>
+<h3>Euphoria</h3>
+
+   <figure>
+    <figcaption>Listen to Our Song</figcaption>
+    <audio
+        controls
+        src="Epiphany - BTS- [MyMp3Bhojpuri.In]">
+          
+            <code>audio</code> element.
+    </audio>
+</figure>
+<h2> Persona album</h2>
+<h3>Boy With Luv</h3>
+
+   <figure>
+    <figcaption>Listen to Our Song</figcaption>
+    <audio
+        controls
+        src="/music/euphoria.mp3">
+          
+            <code>audio</code> element.
+    </audio>
+</figure>
+<h2>BE album</h2>
+<h3>Life goes on</h3>
+
+   <figure>
+    <figcaption>Listen to Our Song</figcaption>
+    <audio
+        controls
+        src="/music/euphoria.mp3">
+          
+            <code>audio</code> element.
+    </audio>
+</figure>
+ <h2> Love Yourself album</h2> 
+<h3>Epiphany</h3>
+
+   <figure>
+    <figcaption>Listen to Our Song</figcaption>
+    <audio
+        controls
+        src="/music/euphoria.mp3">
+          
+            <code>audio</code> element.
+    </audio>
+</figure>
+<h2>Rewind Sanam album</h2>  
+<h3>Lag Ja Gale</h3>
+
+   <figure>
+    <figcaption>Listen to Our Song</figcaption>
+    <audio
+        controls
+        src="/music/euphoria.mp3">
+          
+            <code>audio</code> element.
+    </audio>
+</figure>
+  <h2> Universally Sanam album</h2>
+<h3>Yeh Raaten Yeh Mausam</h3>
+
+   <figure>
+    <figcaption>Listen to Our Song</figcaption>
+    <audio
+        controls
+        src="/music/euphoria.mp3">
+          
+            <code>audio</code> element.
+    </audio>
+</figure>
+<h2>  In Love with Sanam album</h2>
+
+<h3>Gulabi Aankhen</h3>
+
+   <figure>
+    <figcaption>Listen to Our Song</figcaption>
+    <audio
+        controls
+        src="/music/euphoria.mp3">
+          
+            <code>audio</code> element.
+    </audio>
+</figure>
+<h2>   Revisited album     </h2>  
+<h3>O mere dil ke chain</h3>
+
+   <figure>
+    <figcaption>Listen to Our Song</figcaption>
+    <audio
+        controls
+        src="/music/euphoria.mp3">
+          
+            <code>audio</code> element.
+    </audio>
+</figure>
+<h2>    Everyday life album </h2>
+<h3>Sunrise</h3>
+
+   <figure>
+    <figcaption>Listen to Our Song</figcaption>
+    <audio
+        controls
+        src="/music/euphoria.mp3">
+          
+            <code>audio</code> element.
+    </audio>
+</figure>
+<h2> Parachutes album </h2>
+<h3>High speed</h3>
+
+   <figure>
+    <figcaption>Listen to Our Song</figcaption>
+    <audio
+        controls
+        src="/music/euphoria.mp3">
+          
+            <code>audio</code> element.
+    </audio>
+</figure>
+<h2>   A rush of blood to head album </h2>
+<h3>dayligth</h3>
+
+   <figure>
+    <figcaption>Listen to Our Song</figcaption>
+    <audio
+        controls
+        src="/music/euphoria.mp3">
+          
+            <code>audio</code> element.
+    </audio>
+</figure>
+<h2>  A head full of dreams  </h2>
+<h3>Everglow</h3>
+
+   <figure>
+    <figcaption>Listen to Our Song</figcaption>
+    <audio
+        controls
+        src="/music/euphoria.mp3">
+          
+            <code>audio</code> element.
+    </audio>
+</figure>
+<h2>   Midnight memories album  </h2>
+<h3>Best song ever</h3>
+
+   <figure>
+    <figcaption>Listen to Our Song</figcaption>
+    <audio
+        controls
+        src="/music/euphoria.mp3">
+          
+            <code>audio</code> element.
+    </audio>
+</figure>
+<h2>    Four album  </h2>
+<h3>18</h3>
+
+   <figure>
+    <figcaption>Listen to Our Song</figcaption>
+    <audio
+        controls
+        src="/music/euphoria.mp3">
+          
+            <code>audio</code> element.
+    </audio>
+</figure>
+<h2>  Up all night album  </h2>
+<h3>One thing</h3>
+
+   <figure>
+    <figcaption>Listen to Our Song</figcaption>
+    <audio
+        controls
+        src="/music/euphoria.mp3">
+          
+            <code>audio</code> element.
+    </audio>
+</figure>
+<h2>    Take me home album  </h2>
+<h3>Little things</h3>
+
+   <figure>
+    <figcaption>Listen to Our Song</figcaption>
+    <audio
+        controls
+        src="/music/euphoria.mp3">
+          
+            <code>audio</code> element.
+    </audio>
+</figure>
+<h2>   The studio album  </h2>
+<h3>How you like that</h3>
+
+   <figure>
+    <figcaption>Listen to Our Song</figcaption>
+    <audio
+        controls
+        src="/music/euphoria.mp3">
+          
+            <code>audio</code> element.
+    </audio>
+</figure>
+<h2>  Kill This Love album   </h2>
+<h3>Kill This Love</h3>
